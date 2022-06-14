@@ -1,64 +1,39 @@
 {
     "c2array": true,
     "size": [
-        11,
+        6,
         1,
         1
     ],
     "data": [
         [
             [
-                "Réquisition de poursuite"
+                "Avis de saisie"
             ]
         ],
         [
             [
-                "Commandement de payer"
+                "Exécution de la saisie"
             ]
         ],
         [
             [
-                "Opposition"
+                "Réquisition de réalisation"
             ]
         ],
         [
             [
-                "Paiement"
+                "Réalisation"
             ]
         ],
         [
             [
-                "Le débiteur ne fait rien"
+                "Désintéressement des créanciers"
             ]
         ],
         [
             [
-                "Procédure de mainlevée de l’opposition"
-            ]
-        ],
-        [
-            [
-                "Action en reconnaissance dette"
-            ]
-        ],
-        [
-            [
-                "Mainlevée définitive"
-            ]
-        ],
-        [
-            [
-                "Mainlevée provisoire"
-            ]
-        ],
-        [
-            [
-                "Réquisition de continuer la poursuite"
-            ]
-        ],
-        [
-            [
-                "Continuation de la poursuite"
+                "Acte de défaut de biens"
             ]
         ]
     ]
