@@ -1,0 +1,65 @@
+{
+    "c2array": true,
+    "size": [
+        11,
+        1,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Réquisition de poursuite"
+            ]
+        ],
+        [
+            [
+                "Commandement de payer"
+            ]
+        ],
+        [
+            [
+                "Opposition"
+            ]
+        ],
+        [
+            [
+                "Paiement"
+            ]
+        ],
+        [
+            [
+                "Le débiteur ne fait rien"
+            ]
+        ],
+        [
+            [
+                "Procédure de mainlevée de l’opposition"
+            ]
+        ],
+        [
+            [
+                "Action en reconnaissance dette"
+            ]
+        ],
+        [
+            [
+                "Mainlevée définitive"
+            ]
+        ],
+        [
+            [
+                "Mainlevée provisoire"
+            ]
+        ],
+        [
+            [
+                "Réquisition de continuer la poursuite"
+            ]
+        ],
+        [
+            [
+                "Continuation de la poursuite"
+            ]
+        ]
+    ]
+}
