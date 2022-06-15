@@ -1,7 +1,7 @@
 {
     "c2array": true,
     "size": [
-        11,
+        10,
         1,
         1
     ],
@@ -18,47 +18,42 @@
         ],
         [
             [
+                "Paiement débiteur"
+            ]
+        ],
+        [
+            [
                 "Opposition"
             ]
         ],
         [
             [
-                "Paiement"
+                "Sans opposition"
             ]
         ],
         [
             [
-                "Le débiteur ne fait rien"
+                "Procédure de mainlevée"
             ]
         ],
         [
             [
-                "Procédure de mainlevée de l’opposition"
+                "Réquisition de vente"
             ]
         ],
         [
             [
-                "Action en reconnaissance dette"
+                "Avis de procédure de réalisation"
             ]
         ],
         [
             [
-                "Mainlevée définitive"
+                "Paiement total"
             ]
         ],
         [
             [
-                "Mainlevée provisoire"
-            ]
-        ],
-        [
-            [
-                "Réquisition de continuer la poursuite"
-            ]
-        ],
-        [
-            [
-                "Continuation de la poursuite"
+                "Certificat d’insuffisance de gage"
             ]
         ]
     ]
