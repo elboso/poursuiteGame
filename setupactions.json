@@ -1,64 +1,54 @@
 {
     "c2array": true,
     "size": [
-        11,
+        9,
         1,
         1
     ],
     "data": [
         [
             [
-                "Réquisition de poursuite"
+                "Commination de faillite"
             ]
         ],
         [
             [
-                "Commandement de payer"
+                "Réquisition de mise en faillite"
             ]
         ],
         [
             [
-                "Opposition"
+                "Jugement de faillite"
             ]
         ],
         [
             [
-                "Paiement"
+                "Inventaire des biens"
             ]
         ],
         [
             [
-                "Le débiteur ne fait rien"
+                "Appel aux créanciers"
             ]
         ],
         [
             [
-                "Procédure de mainlevée de l’opposition"
+                "Etat de collocation"
             ]
         ],
         [
             [
-                "Action en reconnaissance dette"
+                "Liquidation et répartition"
             ]
         ],
         [
             [
-                "Mainlevée définitive"
+                "Acte de défaut de biens"
             ]
         ],
         [
             [
-                "Mainlevée provisoire"
-            ]
-        ],
-        [
-            [
-                "Réquisition de continuer la poursuite"
-            ]
-        ],
-        [
-            [
-                "Continuation de la poursuite"
+                "Clôture par le juge"
             ]
         ]
     ]
